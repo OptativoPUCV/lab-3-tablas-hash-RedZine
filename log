@@ -22,3 +22,9 @@ sá., 19 de abr. de 2025 15:55:13:
  tests:  11|2
 total_score: 50/70
 8bb6a06
+sá., 19 de abr. de 2025 15:58:05: 
+ hashmap.c | 6 ++++++
+ 1 file changed, 6 insertions(+)
+ tests:  13|2
+total_score: 50/70
+adb82b0
